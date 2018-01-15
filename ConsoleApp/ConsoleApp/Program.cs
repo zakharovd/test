@@ -9,9 +9,8 @@ namespace ConsoleApp
     class Program
     {
         static void Main(string[] args)
-        {
-            // master change
-            // super feature change
+        { 
+          // o
         }
     }
 }
