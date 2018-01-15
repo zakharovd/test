@@ -11,6 +11,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             // master change
+            // super feature change
         }
     }
 }
